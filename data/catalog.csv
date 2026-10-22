@@ -1,0 +1,4 @@
+sku,name,aliases,unit_price_cents,unit_cost_cents,stock,currency,version,verified_at
+AIR-75,Workshop compressor AIR-75,"[""AIR-75"",""compressor 75"",""компресор AIR-75""]",250000,215000,8,EUR,demo-v1,2026-10-21T00:00:00.000Z
+DRILL-20,Industrial drill DRILL-20,"[""DRILL-20"",""industrial drill""]",80000,60000,12,EUR,demo-v1,2026-10-21T00:00:00.000Z
+FILTER-75,Air filter kit FILTER-75,"[""FILTER-75"",""filter kit""]",15000,9000,25,EUR,demo-v1,2026-10-21T00:00:00.000Z
