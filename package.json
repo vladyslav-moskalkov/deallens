@@ -1,0 +1,14 @@
+{
+  "name": "deallens",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-based B2B quote review and draft preparation in n8n",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test tests.mjs",
+    "check": "node build.mjs && node --test tests.mjs",
+    "sample": "node render-sample.mjs"
+  }
+}
